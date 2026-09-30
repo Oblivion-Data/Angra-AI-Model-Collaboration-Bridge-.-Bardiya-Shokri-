@@ -1,6 +1,9 @@
 # Angra-AI-Model-Collaboration-Bridge-.-Bardiya-Shokri-
 Open-source bridge for coordinating local AI models across LM Studio and Bionic.
 
+<img width="1024" height="1536" alt="file_000000002fb082438c79119efba2e23b" src="https://github.com/user-attachments/assets/bd28febf-e196-4c1f-a9e4-f7117664eeb7" />
+
+
 Bardiya Shokri
 copy paste file in you "C:\Users\yours"
  ##angra lm studio prompt :
