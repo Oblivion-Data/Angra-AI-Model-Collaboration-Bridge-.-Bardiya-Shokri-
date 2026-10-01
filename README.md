@@ -440,6 +440,10 @@ The result is a workflow in which workers receive the information required for t
 
 ---
 
+<img width="1024" height="1536" alt="file_0000000001ec821088a7be36dcaaf94b" src="https://github.com/user-attachments/assets/c17ae029-262e-4278-b038-f4a0473e7459" />
+
+
+
 Verification
 
 Multiple models do not automatically produce reliable results.
